@@ -2,10 +2,9 @@
 “A Python-based project that fetches real-time weather data using the OpenWeatherMap API and displays essential information like temperature, humidity, wind speed, and weather conditions.”
 <br>
 Author-Aryan Bhasin
-# python-beginner-project
+# python-beginner-project on weather forecast
 
-**Description:**  
-[A concise summary of your project's core purpose, as per the description ideas above.]
+**Description:** 
 
 ## Features
 - Fetches real-time weather data using the [OpenWeatherMap API](https://openweathermap.org/api)
