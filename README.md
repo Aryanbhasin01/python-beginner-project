@@ -6,7 +6,7 @@ python-beginner-project on weather forecast
 Description:
 
 Features
-Fetches real-time weather data using the OpenWeatherMap API
+Fetches real-time weather data using the OpenWeatherMap API 
 Displays:
 Temperature (°C/°F)
 Humidity
